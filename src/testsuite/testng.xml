@@ -1,0 +1,11 @@
+<suite name="newtour demo suite">
+  <test name="end tsting">
+    <classes>
+      <class name="testsuite.login"/>
+      <class name="testsuite.Flightfinder"/>
+      <class name="testsuite.Selectfight"/>
+      <class name="testsuite.Bookafight"/>
+      <class name="testsuite.Confirm"/>
+    </classes>
+  </test>
+</suite>
